@@ -4,5 +4,5 @@ print a
 b="fdfd"
 print b
 c="""
-fdfdfdfdfdfd"""
+ffffffdfdfdfdfdfd"""
 print c
